@@ -1,4 +1,4 @@
-module gitlab.com/mmTristan/go-mhl
+module github.com/mrmxf/opentsg-mhl
 
 go 1.18
 
