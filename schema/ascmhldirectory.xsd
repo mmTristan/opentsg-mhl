@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schema targetNamespace="urn:ASC:MHL:DIRECTORY:v2.0" 
+	xmlns="http://www.w3.org/2001/XMLSchema" 
+	xmlns:ascmhldirectory="urn:ASC:MHL:DIRECTORY:v2.0" 
+	elementFormDefault="qualified">
+	
+	<complexType name="DirectoryType">
+		<sequence>
+			<element name="hashlist" type="ascmhldirectory:HashlistType" maxOccurs="unbounded"/>
+		</sequence>
+	</complexType>
+	<complexType name="HashlistType">
+		<sequence>
+			<element name="path" type="ascmhldirectory:RelativePathType"/>
+			<element name="c4" type="ascmhldirectory:HashFormatType"/>
+		</sequence>
+		<attribute name="sequencenr" type="integer"/>
+	</complexType>
+    <simpleType name="RelativePathType">
+        <restriction base="string"/>
+    </simpleType>
+	    <complexType name="HashFormatType">
+        <simpleContent>
+            <extension base="string">
+                <attribute name="action" type="ascmhldirectory:ActionAttributeType"/>
+                <attribute name="hashdate" type="dateTime"/>
+                <attribute name="structure" type="string"/>
+            </extension>
+        </simpleContent>
+    </complexType>
+	<simpleType name="ActionAttributeType">
+        <restriction base="string">
+            <enumeration value="original"/>
+            <enumeration value="verified"/>
+            <enumeration value="failed"/>
+        </restriction>
+    </simpleType>
+	<element name="ascmhldirectory" type="ascmhldirectory:DirectoryType"/>
+</schema>

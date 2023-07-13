@@ -1,0 +1,17 @@
+
+ascmhlgen
+test/Output/scenario_01/travel_01/A002R2EC/ascmhl
+clogrc
+
+
+## Keep required test information 
+
+!testdata/ascmhl/RES_run1.txt_2006-01-02_150405.mhl
+!testdata/ascmhl/RES_run2.txt_2006-01-02_150405.mhl
+
+!testdata/ascmhl/RES_run1.txt_2006-01-02_150405.mhl
+
+## Ignore ouputs we make
+**/*.mhl
+**/*.xml
+**/*.txt

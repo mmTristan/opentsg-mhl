@@ -1,0 +1,3216 @@
+{
+   "Test Run Results": [
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 259,
+                     "time per hash(s)": 0.03873983524710425
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 261,
+                     "time per hash(s)": 0.0383798314559387
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 252,
+                     "time per hash(s)": 0.03971147143253968
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 255,
+                     "time per hash(s)": 0.03928717701960784
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 261,
+                     "time per hash(s)": 0.03857426433716475
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 245,
+                     "time per hash(s)": 0.04081650902040816
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 172,
+                     "time per hash(s)": 0.05831666155232559
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 174,
+                     "time per hash(s)": 0.057518186206896554
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 176,
+                     "time per hash(s)": 0.05683822323863636
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 391,
+                     "time per hash(s)": 0.025627106593350383
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 404,
+                     "time per hash(s)": 0.02477012391089109
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 413,
+                     "time per hash(s)": 0.024248679585956417
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 2121,
+                     "time per hash(s)": 0.004715273540782649
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 2247,
+                     "time per hash(s)": 0.0044506279532710285
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 2259,
+                     "time per hash(s)": 0.004428729030544489
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 1448,
+                     "time per hash(s)": 0.0069060985290055246
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 1653,
+                     "time per hash(s)": 0.006049754143980641
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 1715,
+                     "time per hash(s)": 0.005833594634985423
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 1846,
+                     "time per hash(s)": 0.005417450633802817
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 2216,
+                     "time per hash(s)": 0.004513094223826715
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 2264,
+                     "time per hash(s)": 0.004418156465989399
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.09074284867567567
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 102,
+                     "time per hash(s)": 0.09875631101960784
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 101,
+                     "time per hash(s)": 0.09911977057425742
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 99,
+                     "time per hash(s)": 0.10233177361616161
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 99,
+                     "time per hash(s)": 0.10114993382828283
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 98,
+                     "time per hash(s)": 0.1022244585510204
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 79,
+                     "time per hash(s)": 0.12665325959493673
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 82,
+                     "time per hash(s)": 0.12197421071951219
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 80,
+                     "time per hash(s)": 0.1255731967
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.09040666735135135
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09186771172477064
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 110,
+                     "time per hash(s)": 0.09166592367272729
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 142,
+                     "time per hash(s)": 0.07085527833802817
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 154,
+                     "time per hash(s)": 0.06523743925974025
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 140,
+                     "time per hash(s)": 0.07172025646428572
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 150,
+                     "time per hash(s)": 0.06729456174666668
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 150,
+                     "time per hash(s)": 0.06680564711333334
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 147,
+                     "time per hash(s)": 0.06819632834693877
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 147,
+                     "time per hash(s)": 0.06804305169387755
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 148,
+                     "time per hash(s)": 0.06759029952027026
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 147,
+                     "time per hash(s)": 0.06806269481632653
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 119,
+                     "time per hash(s)": 0.08431259582352942
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.09014314811711713
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 110,
+                     "time per hash(s)": 0.09173428093636363
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.09048665944144145
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 108,
+                     "time per hash(s)": 0.09289827443518518
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09443730482075471
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 74,
+                     "time per hash(s)": 0.1368412866081081
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 80,
+                     "time per hash(s)": 0.1254056721
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 72,
+                     "time per hash(s)": 0.1402453257361111
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 108,
+                     "time per hash(s)": 0.09266833510185185
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09616647011428571
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.0964422030576923
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 144,
+                     "time per hash(s)": 0.07041121359722222
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 143,
+                     "time per hash(s)": 0.07022495865034965
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 141,
+                     "time per hash(s)": 0.07098456192198581
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 143,
+                     "time per hash(s)": 0.07021581452447552
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 143,
+                     "time per hash(s)": 0.07027648403496503
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 141,
+                     "time per hash(s)": 0.07128046373049646
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 139,
+                     "time per hash(s)": 0.07198599835251798
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 140,
+                     "time per hash(s)": 0.071440732
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 140,
+                     "time per hash(s)": 0.07152714235714286
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 117,
+                     "time per hash(s)": 0.08567501840170941
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08927392846902656
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.0888690055840708
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 108,
+                     "time per hash(s)": 0.09337801905555557
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08943517655357143
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08884505550442477
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 90,
+                     "time per hash(s)": 0.11118326494444444
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 92,
+                     "time per hash(s)": 0.1093162531521739
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 93,
+                     "time per hash(s)": 0.10818367860215053
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 133,
+                     "time per hash(s)": 0.07522447681203008
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 136,
+                     "time per hash(s)": 0.07403216933088236
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 133,
+                     "time per hash(s)": 0.07544568302255639
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 183,
+                     "time per hash(s)": 0.0547879411147541
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 180,
+                     "time per hash(s)": 0.05568452051666667
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 179,
+                     "time per hash(s)": 0.056098714480446926
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 178,
+                     "time per hash(s)": 0.05622736778651685
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 177,
+                     "time per hash(s)": 0.05669841696610169
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 164,
+                     "time per hash(s)": 0.06115748690853659
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.058559208157894733
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 169,
+                     "time per hash(s)": 0.059343986224852076
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 183,
+                     "time per hash(s)": 0.05473731510928962
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 89,
+                     "time per hash(s)": 0.11381816947191012
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 84,
+                     "time per hash(s)": 0.11920519077380952
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 82,
+                     "time per hash(s)": 0.12261206256097561
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 87,
+                     "time per hash(s)": 0.11544825806896553
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 82,
+                     "time per hash(s)": 0.12300471715853659
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 81,
+                     "time per hash(s)": 0.12433441603703703
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 73,
+                     "time per hash(s)": 0.13807752489041097
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 72,
+                     "time per hash(s)": 0.14005284538888887
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 68,
+                     "time per hash(s)": 0.1473779772647059
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 90,
+                     "time per hash(s)": 0.1115756418
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 81,
+                     "time per hash(s)": 0.12420705998765433
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 85,
+                     "time per hash(s)": 0.11769202701176469
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.0965206694423077
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09447016513207547
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 101,
+                     "time per hash(s)": 0.09954914237623762
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08972667233035714
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.0952202365754717
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.09695715083653847
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 101,
+                     "time per hash(s)": 0.09968846730693069
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 110,
+                     "time per hash(s)": 0.09136004955454545
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 107,
+                     "time per hash(s)": 0.09438541481308411
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 116,
+                     "time per hash(s)": 0.08640018882758621
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09251564272477064
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.09728082406730769
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.09682729026923077
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09538759803809523
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 103,
+                     "time per hash(s)": 0.09772332833009709
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 83,
+                     "time per hash(s)": 0.12188252439759037
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 82,
+                     "time per hash(s)": 0.12310516104878048
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 88,
+                     "time per hash(s)": 0.11439910168181817
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 120,
+                     "time per hash(s)": 0.08389433265833332
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.08209046460162601
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 119,
+                     "time per hash(s)": 0.08482080038655462
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.05993257816766467
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 155,
+                     "time per hash(s)": 0.06462637460645161
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 160,
+                     "time per hash(s)": 0.06256685471875
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 157,
+                     "time per hash(s)": 0.06373710429936306
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 148,
+                     "time per hash(s)": 0.06771045339864865
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 161,
+                     "time per hash(s)": 0.06231129901863355
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 161,
+                     "time per hash(s)": 0.06235132622360249
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 157,
+                     "time per hash(s)": 0.0638567821210191
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 161,
+                     "time per hash(s)": 0.06226674865217391
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-06 08:24:27.184472494 +0000 UTC m=+210.894524004",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 122,
+                     "time per hash(s)": 0.0820037097295082
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 120,
+                     "time per hash(s)": 0.08374530028333332
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 118,
+                     "time per hash(s)": 0.08510718833898305
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 116,
+                     "time per hash(s)": 0.08628261678448276
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 115,
+                     "time per hash(s)": 0.0875492568
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 115,
+                     "time per hash(s)": 0.08769613895652174
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 95,
+                     "time per hash(s)": 0.10552140080000001
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 95,
+                     "time per hash(s)": 0.10591431012631577
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 94,
+                     "time per hash(s)": 0.10710941491489362
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 136,
+                     "time per hash(s)": 0.07360585210294117
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 132,
+                     "time per hash(s)": 0.07617380290151515
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 135,
+                     "time per hash(s)": 0.07412277665185185
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 176,
+                     "time per hash(s)": 0.057009345477272724
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 182,
+                     "time per hash(s)": 0.0552148791978022
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 187,
+                     "time per hash(s)": 0.053505715545454545
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 181,
+                     "time per hash(s)": 0.055506441397790054
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 180,
+                     "time per hash(s)": 0.05563858570555556
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 184,
+                     "time per hash(s)": 0.05455014480978261
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 179,
+                     "time per hash(s)": 0.056220405648044695
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 177,
+                     "time per hash(s)": 0.056662911446327686
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 181,
+                     "time per hash(s)": 0.05554087393922652
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-06T08:30:48+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 129,
+                     "time per hash(s)": 0.07796416733333333
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 126,
+                     "time per hash(s)": 0.08001756858730158
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 122,
+                     "time per hash(s)": 0.08233012194262294
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.08160424932520326
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 116,
+                     "time per hash(s)": 0.08624542318965518
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08996876173214285
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 93,
+                     "time per hash(s)": 0.10832436056989247
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 94,
+                     "time per hash(s)": 0.10684233018085106
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 93,
+                     "time per hash(s)": 0.10830531927956989
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 133,
+                     "time per hash(s)": 0.0757056942481203
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 134,
+                     "time per hash(s)": 0.07473145252985075
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 132,
+                     "time per hash(s)": 0.07643976342424241
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 182,
+                     "time per hash(s)": 0.05497252972527472
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 181,
+                     "time per hash(s)": 0.05537517745303867
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 177,
+                     "time per hash(s)": 0.056603394508474576
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 169,
+                     "time per hash(s)": 0.059365590698224856
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 174,
+                     "time per hash(s)": 0.057777376178160915
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 178,
+                     "time per hash(s)": 0.05636573217977528
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05818808060115607
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 176,
+                     "time per hash(s)": 0.056847898471590906
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 183,
+                     "time per hash(s)": 0.05489090943169399
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-07 15:19:23.162632278 +0000 UTC m=+211.097685015",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 110,
+                     "time per hash(s)": 0.09114036283636363
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 98,
+                     "time per hash(s)": 0.10298718882653062
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 94,
+                     "time per hash(s)": 0.1065462644893617
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 97,
+                     "time per hash(s)": 0.10368629658762886
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 98,
+                     "time per hash(s)": 0.10244134725510204
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 96,
+                     "time per hash(s)": 0.10448881698958333
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 76,
+                     "time per hash(s)": 0.1330054807236842
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 80,
+                     "time per hash(s)": 0.126901863625
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 75,
+                     "time per hash(s)": 0.13379500893333335
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09466303311320755
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.0960124471142857
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09534427440952381
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 138,
+                     "time per hash(s)": 0.0725616619057971
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 143,
+                     "time per hash(s)": 0.07025626775524475
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 137,
+                     "time per hash(s)": 0.07349181235766424
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 127,
+                     "time per hash(s)": 0.07900745302362205
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 135,
+                     "time per hash(s)": 0.07448657338518519
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 138,
+                     "time per hash(s)": 0.07260133013768116
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 134,
+                     "time per hash(s)": 0.07507276738059702
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 136,
+                     "time per hash(s)": 0.07360763354411765
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 137,
+                     "time per hash(s)": 0.07301393418978101
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-07 15:31:15.151465351 +0000 UTC m=+211.071061285",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09581898306666667
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.0950504993490566
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 96,
+                     "time per hash(s)": 0.10528412050000001
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.09021063546846847
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.0888842013539823
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09178038162385321
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 86,
+                     "time per hash(s)": 0.11745682324418605
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 87,
+                     "time per hash(s)": 0.1153629279770115
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 88,
+                     "time per hash(s)": 0.11415315105681817
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 128,
+                     "time per hash(s)": 0.0784286353515625
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 124,
+                     "time per hash(s)": 0.08117016122580646
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 125,
+                     "time per hash(s)": 0.080377076984
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05807922498843931
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.058131624635838146
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05819911538150289
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 175,
+                     "time per hash(s)": 0.057227312434285714
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 172,
+                     "time per hash(s)": 0.0582764916627907
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 174,
+                     "time per hash(s)": 0.057530113545977014
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 170,
+                     "time per hash(s)": 0.059001558205882355
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.05855526266666667
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 181,
+                     "time per hash(s)": 0.05540226339779006
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-08 10:01:12.000305254 +0000 UTC m=+210.906422070",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 125,
+                     "time per hash(s)": 0.08028349872
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 124,
+                     "time per hash(s)": 0.08125676706451612
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.08196555150406504
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 131,
+                     "time per hash(s)": 0.07659513558015267
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 130,
+                     "time per hash(s)": 0.07720670393076923
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 134,
+                     "time per hash(s)": 0.07502016014179104
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 98,
+                     "time per hash(s)": 0.10221433164285715
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 95,
+                     "time per hash(s)": 0.10547650412631579
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 92,
+                     "time per hash(s)": 0.10872756950000001
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 147,
+                     "time per hash(s)": 0.0683088574829932
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 140,
+                     "time per hash(s)": 0.07175241177857143
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 151,
+                     "time per hash(s)": 0.06689686743708609
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 191,
+                     "time per hash(s)": 0.05237025766492147
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 189,
+                     "time per hash(s)": 0.05307489767724868
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 153,
+                     "time per hash(s)": 0.06564532371895425
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 191,
+                     "time per hash(s)": 0.052504412518324606
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.059924638999999995
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 159,
+                     "time per hash(s)": 0.06326137049056603
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 178,
+                     "time per hash(s)": 0.05625334703932584
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 191,
+                     "time per hash(s)": 0.052494356078534025
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 192,
+                     "time per hash(s)": 0.05209204502083333
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-08 11:48:03.541613825 +0000 UTC m=+211.100553282",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08930929544642856
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08973342627678571
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.09616923923076923
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09611601856190477
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 110,
+                     "time per hash(s)": 0.0915581940090909
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.0926498772293578
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 88,
+                     "time per hash(s)": 0.11451703397727274
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 87,
+                     "time per hash(s)": 0.11617747812643678
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 87,
+                     "time per hash(s)": 0.11559593003448276
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 121,
+                     "time per hash(s)": 0.08319934009917355
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 127,
+                     "time per hash(s)": 0.07887262880314962
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 128,
+                     "time per hash(s)": 0.0785681444765625
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 177,
+                     "time per hash(s)": 0.056827442440677965
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 168,
+                     "time per hash(s)": 0.05975773711309523
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.05867127640935673
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 160,
+                     "time per hash(s)": 0.0626605434125
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 147,
+                     "time per hash(s)": 0.06822454153741497
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 152,
+                     "time per hash(s)": 0.06617158889473684
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 142,
+                     "time per hash(s)": 0.0705204392112676
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 152,
+                     "time per hash(s)": 0.06584954255263158
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 163,
+                     "time per hash(s)": 0.061585129975460125
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-10 08:33:50.37112833 +0000 UTC m=+211.048308672",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08990307273214285
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 116,
+                     "time per hash(s)": 0.08628231649137931
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08877158097345134
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 118,
+                     "time per hash(s)": 0.08498820848305084
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 115,
+                     "time per hash(s)": 0.08747841388695653
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 118,
+                     "time per hash(s)": 0.08498764000847457
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 95,
+                     "time per hash(s)": 0.10581009661052632
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 94,
+                     "time per hash(s)": 0.10711981591489361
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 94,
+                     "time per hash(s)": 0.1071346939787234
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 137,
+                     "time per hash(s)": 0.07345191193430657
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 137,
+                     "time per hash(s)": 0.07343738981751824
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 132,
+                     "time per hash(s)": 0.07616358777272728
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 192,
+                     "time per hash(s)": 0.052186560098958334
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 195,
+                     "time per hash(s)": 0.051329245794871796
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 194,
+                     "time per hash(s)": 0.051698366994845354
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 179,
+                     "time per hash(s)": 0.05621588829608938
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 186,
+                     "time per hash(s)": 0.05377644338709678
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 185,
+                     "time per hash(s)": 0.0543098976054054
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 190,
+                     "time per hash(s)": 0.052889661505263155
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 197,
+                     "time per hash(s)": 0.050903874710659894
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 190,
+                     "time per hash(s)": 0.05273114541578948
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-riu4391hwvq",
+         "Time of test": "2022-06-10T10:41:11+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 122,
+                     "time per hash(s)": 0.08253085051639344
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08879548863716814
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 120,
+                     "time per hash(s)": 0.083720131625
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.0813467829105691
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.08140356616260162
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.0813129717804878
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 96,
+                     "time per hash(s)": 0.10448311339583333
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 98,
+                     "time per hash(s)": 0.10255248770408164
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 96,
+                     "time per hash(s)": 0.10475497597916666
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 141,
+                     "time per hash(s)": 0.07103515636879433
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 141,
+                     "time per hash(s)": 0.07137569527659575
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 142,
+                     "time per hash(s)": 0.07049285399295774
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 199,
+                     "time per hash(s)": 0.050304539994974876
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 193,
+                     "time per hash(s)": 0.05187702195854922
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 199,
+                     "time per hash(s)": 0.05047293469849247
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 192,
+                     "time per hash(s)": 0.05236246924479166
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 187,
+                     "time per hash(s)": 0.053597297363636366
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 198,
+                     "time per hash(s)": 0.050642859222222225
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 193,
+                     "time per hash(s)": 0.0518544915492228
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 197,
+                     "time per hash(s)": 0.05101069383248731
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 195,
+                     "time per hash(s)": 0.05136869788717948
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-4tizrg1ppko",
+         "Time of test": "2022-07-12T14:39:39+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 120,
+                     "time per hash(s)": 0.08351388397500001
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 117,
+                     "time per hash(s)": 0.08574538022222222
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 114,
+                     "time per hash(s)": 0.08835236168421053
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08856247714159292
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08974900503571429
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 115,
+                     "time per hash(s)": 0.08700292806086957
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 91,
+                     "time per hash(s)": 0.11065399332967032
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 90,
+                     "time per hash(s)": 0.11158878871111111
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 83,
+                     "time per hash(s)": 0.12087555644578313
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 117,
+                     "time per hash(s)": 0.08550269211965811
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08883611589380531
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 116,
+                     "time per hash(s)": 0.08672221770689656
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05783958016763006
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 178,
+                     "time per hash(s)": 0.05637193278089888
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 160,
+                     "time per hash(s)": 0.06275238921875001
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 126,
+                     "time per hash(s)": 0.07953105553174603
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.081421753300813
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 131,
+                     "time per hash(s)": 0.07709851449618321
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 150,
+                     "time per hash(s)": 0.06708880669333334
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 138,
+                     "time per hash(s)": 0.07263475170289856
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 146,
+                     "time per hash(s)": 0.06873521401369863
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-4tizrg1ppko",
+         "Time of test": "2022-07-14T10:24:33+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.09724134875961539
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09497193587735848
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09602655763809524
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 102,
+                     "time per hash(s)": 0.09808594172549019
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 65,
+                     "time per hash(s)": 0.15490049343076923
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 61,
+                     "time per hash(s)": 0.16532945790163936
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 48,
+                     "time per hash(s)": 0.211715242875
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 80,
+                     "time per hash(s)": 0.12732002472499998
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 82,
+                     "time per hash(s)": 0.12230513775609755
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 117,
+                     "time per hash(s)": 0.08569017268376068
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 119,
+                     "time per hash(s)": 0.08419953004201682
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 117,
+                     "time per hash(s)": 0.08550187885470086
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 163,
+                     "time per hash(s)": 0.06143058929447853
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 163,
+                     "time per hash(s)": 0.06179090253374233
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 163,
+                     "time per hash(s)": 0.06153217027607362
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 157,
+                     "time per hash(s)": 0.06369524863694268
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 159,
+                     "time per hash(s)": 0.06294747349056604
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 155,
+                     "time per hash(s)": 0.06483580809032258
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 145,
+                     "time per hash(s)": 0.06931898595172413
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 139,
+                     "time per hash(s)": 0.07276427993525181
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 153,
+                     "time per hash(s)": 0.0653708805620915
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-4tizrg1ppko",
+         "Time of test": "2022-07-15T07:38:08+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09463428455660378
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.0891304368141593
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09187403159633027
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09195250446788991
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.09072042865765766
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 114,
+                     "time per hash(s)": 0.08826787465789473
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 93,
+                     "time per hash(s)": 0.10818620648387096
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 94,
+                     "time per hash(s)": 0.10724075192553192
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 87,
+                     "time per hash(s)": 0.11531887867816092
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 130,
+                     "time per hash(s)": 0.07729729902307692
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 127,
+                     "time per hash(s)": 0.07898636208661416
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 120,
+                     "time per hash(s)": 0.08360778004166666
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 166,
+                     "time per hash(s)": 0.0602498066746988
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.060120164149700596
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 174,
+                     "time per hash(s)": 0.05772234668390804
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.059897371904191615
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.06009599422155689
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 164,
+                     "time per hash(s)": 0.06105504339634146
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 175,
+                     "time per hash(s)": 0.05719373626285715
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 170,
+                     "time per hash(s)": 0.059066884088235294
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 165,
+                     "time per hash(s)": 0.06072788839999999
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-4tizrg1ppko",
+         "Time of test": "2022-07-18T14:02:50+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09535151803773584
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.0954269478952381
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 85,
+                     "time per hash(s)": 0.11827319007058823
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 113,
+                     "time per hash(s)": 0.08901395369026549
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09226342575229358
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.09533518888679245
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 87,
+                     "time per hash(s)": 0.11520530536781609
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 78,
+                     "time per hash(s)": 0.12902752914102564
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 78,
+                     "time per hash(s)": 0.12916592773076924
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 114,
+                     "time per hash(s)": 0.08821586214035088
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 122,
+                     "time per hash(s)": 0.08197143557377048
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 122,
+                     "time per hash(s)": 0.08220175242622951
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 161,
+                     "time per hash(s)": 0.06231959730434782
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 175,
+                     "time per hash(s)": 0.05749118082857142
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.057900902763005774
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05817174216184971
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 166,
+                     "time per hash(s)": 0.060389135704819276
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 158,
+                     "time per hash(s)": 0.06345397826582279
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 163,
+                     "time per hash(s)": 0.06143731704294479
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 174,
+                     "time per hash(s)": 0.05790028386781609
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 168,
+                     "time per hash(s)": 0.05982542567857142
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-4tizrg1ppko",
+         "Time of test": "2022-07-21T13:09:17+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 111,
+                     "time per hash(s)": 0.0904267444864865
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 108,
+                     "time per hash(s)": 0.09295363155555555
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09208394364220183
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 107,
+                     "time per hash(s)": 0.09353371047663551
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.09562473445714287
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 103,
+                     "time per hash(s)": 0.09759843838834951
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 83,
+                     "time per hash(s)": 0.12049607025301204
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 85,
+                     "time per hash(s)": 0.11856194087058824
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 86,
+                     "time per hash(s)": 0.11667685975581396
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.0962606346923077
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 104,
+                     "time per hash(s)": 0.09709354886538463
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 100,
+                     "time per hash(s)": 0.10085698333
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 150,
+                     "time per hash(s)": 0.06720341594666666
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 149,
+                     "time per hash(s)": 0.06724152771812081
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 157,
+                     "time per hash(s)": 0.0638952771910828
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 143,
+                     "time per hash(s)": 0.070289618013986
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 156,
+                     "time per hash(s)": 0.06413552076923078
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 168,
+                     "time per hash(s)": 0.05966661654166667
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05813844928901735
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 168,
+                     "time per hash(s)": 0.05986610717857143
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.05872363570760234
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-2e8oh1ehmku",
+         "Time of test": "2022-12-05T15:37:56+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 115,
+                     "time per hash(s)": 0.08743298668695652
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09246180870642201
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 103,
+                     "time per hash(s)": 0.09748524159223301
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 102,
+                     "time per hash(s)": 0.09820499686274509
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 108,
+                     "time per hash(s)": 0.09310376765740741
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 106,
+                     "time per hash(s)": 0.095332946
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 85,
+                     "time per hash(s)": 0.1184288668
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 83,
+                     "time per hash(s)": 0.1212668133493976
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 84,
+                     "time per hash(s)": 0.12000474215476191
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 117,
+                     "time per hash(s)": 0.08571323205982906
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 122,
+                     "time per hash(s)": 0.0821474424590164
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 123,
+                     "time per hash(s)": 0.08157278099186992
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 185,
+                     "time per hash(s)": 0.054289922729729725
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.05818276147398844
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 181,
+                     "time per hash(s)": 0.05545497897237569
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.05864280626900585
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 162,
+                     "time per hash(s)": 0.062048014364197525
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 160,
+                     "time per hash(s)": 0.06254336455000001
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 173,
+                     "time per hash(s)": 0.057805240976878614
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.06042063414970059
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 167,
+                     "time per hash(s)": 0.06016412135329341
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-2e8oh1ehmku",
+         "Time of test": "2022-12-07T10:56:25+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 95,
+                     "time per hash(s)": 0.10531023677894737
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 97,
+                     "time per hash(s)": 0.1035404647628866
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 99,
+                     "time per hash(s)": 0.10187755684848485
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 100,
+                     "time per hash(s)": 0.10031948333000001
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 95,
+                     "time per hash(s)": 0.10554086970526316
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 97,
+                     "time per hash(s)": 0.10355399887628866
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 69,
+                     "time per hash(s)": 0.14667148789855072
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 75,
+                     "time per hash(s)": 0.13358244097333333
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 72,
+                     "time per hash(s)": 0.13998586025
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 101,
+                     "time per hash(s)": 0.09996391936633664
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 108,
+                     "time per hash(s)": 0.09273181327777778
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 105,
+                     "time per hash(s)": 0.0954261344
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 147,
+                     "time per hash(s)": 0.068395794292517
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 154,
+                     "time per hash(s)": 0.06523313078571429
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 148,
+                     "time per hash(s)": 0.06760572914189189
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 141,
+                     "time per hash(s)": 0.07118788313475177
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 144,
+                     "time per hash(s)": 0.06980079840972223
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 153,
+                     "time per hash(s)": 0.06554841328104576
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 155,
+                     "time per hash(s)": 0.06477863343225806
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 151,
+                     "time per hash(s)": 0.0666569064834437
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 162,
+                     "time per hash(s)": 0.06185222366049383
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "Host": "mmtristan-gomhl-2e8oh1ehmku",
+         "Time of test": "2022-12-08T08:38:30+00:00",
+         "Results by hash": [
+            {
+               "Hash Type": "C4",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 92,
+                     "time per hash(s)": 0.10952468832608696
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 96,
+                     "time per hash(s)": 0.10536698047916666
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 96,
+                     "time per hash(s)": 0.10473216761458333
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Md5",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 103,
+                     "time per hash(s)": 0.09736055211650486
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 98,
+                     "time per hash(s)": 0.10253702185714286
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 97,
+                     "time per hash(s)": 0.10358898229896907
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha256",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 73,
+                     "time per hash(s)": 0.13787660656164383
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 78,
+                     "time per hash(s)": 0.12941450644871794
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 78,
+                     "time per hash(s)": 0.13010018256410258
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Sha1",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 109,
+                     "time per hash(s)": 0.09253022378899083
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 112,
+                     "time per hash(s)": 0.08965334039285713
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 116,
+                     "time per hash(s)": 0.08648572747413794
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh3",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 170,
+                     "time per hash(s)": 0.058883013723529415
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 172,
+                     "time per hash(s)": 0.05877876806976744
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 172,
+                     "time per hash(s)": 0.05856484091860465
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh64",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 162,
+                     "time per hash(s)": 0.06205877359259259
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 168,
+                     "time per hash(s)": 0.05976803515476191
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 174,
+                     "time per hash(s)": 0.05805778741954022
+                  }
+               ]
+            },
+            {
+               "Hash Type": "Xxh128",
+               "Results": [
+                  {
+                     "File name": "testdata/run1.txt",
+                     "Number of iterations": 166,
+                     "time per hash(s)": 0.06037522378915663
+                  },
+                  {
+                     "File name": "testdata/run2.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.05849585248538011
+                  },
+                  {
+                     "File name": "testdata/run3.txt",
+                     "Number of iterations": 171,
+                     "time per hash(s)": 0.058493983824561405
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
