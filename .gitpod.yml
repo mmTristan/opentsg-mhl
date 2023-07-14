@@ -1,7 +1,0 @@
-
-tasks:
-  - init: |
-      echo 'TODO: build project'
-    command: |
-      curl https://mrmxf.com/get/lxclog | bash
-      echo 'TODO: start app'
