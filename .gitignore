@@ -1,10 +1,14 @@
 
 ascmhlgen
 test/Output/scenario_01/travel_01/A002R2EC/ascmhl
-clogrc
+clogrc/core
+clogrc/tmp/*
+!clogrc/tmp/readme.md
+archive/
+.DS_Store
 
 
-## Keep required test information 
+## Keep required test information
 
 !testdata/ascmhl/RES_run1.txt_2006-01-02_150405.mhl
 !testdata/ascmhl/RES_run2.txt_2006-01-02_150405.mhl
