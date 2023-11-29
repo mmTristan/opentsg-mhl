@@ -1,12 +1,11 @@
-# usage> build
+#  clog> build
 # short> build & inject metadata into clog
-# long>  we only check the tags and esure local & remote match
-#                             _                       _
-#   ___   _ __   ___   _ _   | |_   ___  __ _   ___  (_)  ___
-#  / _ \ | '_ \ / -_) | ' \  |  _| (_-< / _` | |___| | | / _ \
-#  \___/ | .__/ \___| |_||_|  \__| /__/ \__, |       |_| \___/
+# extra> we only check the tags and esure local & remote match
+#                             _                               _      _
+#   ___   _ __   ___   _ _   | |_   ___  __ _   ___   _ __   | |_   | |
+#  / _ \ | '_ \ / -_) | ' \  |  _| (_-< / _` | |___| | '  \  | ' \  | |
+#  \___/ | .__/ \___| |_||_|  \__| /__/ \__, |       |_|_|_| |_||_| |_|
 #        |_|                            |___/
-
 
 [ -f clogrc/common.sh ] && source clogrc/common.sh  # helper functions
 # -----------------------------------------------------------------------------
@@ -16,7 +15,7 @@ printf "${cT}Project$cS $PROJECT$cX\n"
 
 # --- update local & remote tags ----------------------------------------------
 
-[[ ( "$vLOCAL" == "$vREF" ) && ( "$vRio" == "$vREF" ) ]] && exit 0
+[[ ( "$vLOCAL" == "$vREF" ) && ( "$vRmhl" == "$vREF" ) ]] && exit 0
 
 # offer to tag local repo (default = no)
 
@@ -30,7 +29,7 @@ if [[ "$vLOCAL" != "$vREF" ]] ; then
   fi
 fi
 
-if [[ ( "$vLOCAL" == "$vREF" ) && ( "$vRio" != "$vREF" ) ]] ; then
+if [[ ( "$vLOCAL" == "$vREF" ) && ( "$vRmhl" != "$vREF" ) ]] ; then
   fPrompt "${cT}Push$cS $PROJECT$cT to origin @ $vREF?$cX" "yN" 6
   if [ $? -eq 0 ] ; then # yes was selected
     printf "Pushing $vREF to origin.\n"

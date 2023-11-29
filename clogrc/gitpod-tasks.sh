@@ -1,11 +1,11 @@
-# usage> Gitpod [before | init | command]
+#  clog> Gitpod [before | init | command]
 # short> run the Gitpod scripts
-# long>  run the Gitpod initialisation scripts from clog
-#                             _
-#   ___   _ __   ___   _ _   | |_   _ __   __ _
-#  / _ \ | '_ \ / -_) | ' \  |  _| | '_ \ / _` |
-#  \___/ | .__/ \___| |_||_|  \__| | .__/ \__, |
-#        |_|                       |_|    |___/
+# extra> run the Gitpod initialisation scripts from clog
+#                             _                               _      _
+#   ___   _ __   ___   _ _   | |_   ___  __ _   ___   _ __   | |_   | |
+#  / _ \ | '_ \ / -_) | ' \  |  _| (_-< / _` | |___| | '  \  | ' \  | |
+#  \___/ | .__/ \___| |_||_|  \__| /__/ \__, |       |_|_|_| |_||_| |_|
+#        |_|                            |___/
 
 [ -n "$(clog -v)" ] && source <(clog Cat clogrc/core.inc.sh) ## use clog tools
 case $1 in
