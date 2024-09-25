@@ -12,7 +12,7 @@ import (
 	"sort"
 
 	"github.com/Avalanche-io/c4/id"
-	"github.com/cespare/xxhash"
+	"github.com/cespare/xxhash/v2"
 	"github.com/spf13/afero"
 	"github.com/zeebo/xxh3"
 )
